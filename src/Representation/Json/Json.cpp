@@ -1,5 +1,7 @@
 #include "./Json.h"
 
+#include <map>
+
 namespace byteofsin::datastructures::javascript {
     // Implementation
     struct Json::Implementation {
