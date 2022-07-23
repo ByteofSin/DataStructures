@@ -1,0 +1,2 @@
+This directory contains the Json class files. The Json class represents a JavaScript Object Notation (JSON) text format 
+as described in the rfc 7158 standard (https://datatracker.ietf.org/doc/html/rfc7158).
