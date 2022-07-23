@@ -1,0 +1,1 @@
+This directory is for classes which represent something else, such as json representing the json data structure
